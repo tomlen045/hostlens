@@ -5,5 +5,7 @@ make_cover.py
 make_shots.py
 inject_sha.py
 verify_cdn.py
+publish-gitee.sh
+publish-github.sh
 out/
 shots-capture/
