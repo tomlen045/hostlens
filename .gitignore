@@ -1,0 +1,9 @@
+# 公众号排版 HTML 与本地交付物（不进仓）
+hostlens-article.html
+selfcheck_html.py
+make_cover.py
+make_shots.py
+inject_sha.py
+verify_cdn.py
+out/
+shots-capture/
